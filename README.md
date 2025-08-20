@@ -1,4 +1,4 @@
-# Task CLI - Manage tasks from command line running on windows
+# Task CLI - Manage tasks from command line
 ## Project URL: https://roadmap.sh/projects/task-tracker
 
 ### Step 1: Build program
